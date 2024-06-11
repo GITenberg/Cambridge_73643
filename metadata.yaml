@@ -1,0 +1,45 @@
+_repo: Cambridge_73643
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehust, Ernest William
+    - Haslehurst, Ernest William
+    - Haslehurst, E. W.
+    - Hazelhurst, Ernest
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+creator:
+  author:
+    agent_name: Barwell, Noel
+    aliases:
+    - Barwell, Noel Frederick
+    - Barwell, N. F.‏
+    birthdate: 1879
+    deathdate: 1953
+    gutenberg_agent_id: '57182'
+    url: http://www.gutenberg.org/2009/agents/57182
+description: ''
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73643'
+language: en
+pgterms:marc905: 20240411145927barwell
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bBlackie & Son Limited, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cambridge (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: Cambridge
+url: http://www.gutenberg.org/ebooks/73643
